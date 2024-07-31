@@ -1,0 +1,12 @@
+[
+    {
+        "project_title": "Building a Personal Portfolio Website",
+        "description": "Learn how to build a responsive personal portfolio website using HTML, CSS, and JavaScript.",
+        "link": "https://example.com/projects/portfolio-website"
+    },
+    {
+        "project_title": "Creating a Machine Learning Model for Predictive Analysis",
+        "description": "This project will guide you through creating a machine learning model using Python's scikit-learn.",
+        "link": "https://example.com/projects/ml-predictive-analysis"
+    }
+]

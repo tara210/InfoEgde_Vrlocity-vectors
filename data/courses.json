@@ -1,0 +1,20 @@
+[
+    {
+        "course_name": "Introduction to Programming",
+        "description": "Learn the basics of programming using Python.",
+        "image": "https://via.placeholder.com/300",
+        "link": "#"
+    },
+    {
+        "course_name": "Data Structures and Algorithms",
+        "description": "Deep dive into data structures and algorithms.",
+        "image": "https://via.placeholder.com/300",
+        "link": "#"
+    },
+    {
+        "course_name": "Web Development",
+        "description": "Build responsive and dynamic websites.",
+        "image": "https://via.placeholder.com/300",
+        "link": "#"
+    }
+]

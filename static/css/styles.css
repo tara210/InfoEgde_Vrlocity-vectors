@@ -1,0 +1,82 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+.progress-bar {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.roadmap-container {body {
+    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+.progress-bar {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.roadmap-container {
+    margin-top: 30px;
+}
+
+.roadmap-step {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+footer p {
+    margin: 0;
+}
+
+    margin-top: 30px;
+}
+
+.roadmap-step {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+footer p {
+    margin: 0;
+}

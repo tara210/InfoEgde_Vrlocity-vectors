@@ -1,0 +1,23 @@
+{
+    "1": {
+        "stages": [
+            "Complete the Python programming course",
+            "Work on hands-on projects with data structures",
+            "Apply data analysis techniques on real-world datasets"
+        ]
+    },
+    "2": {
+        "stages": [
+            "Start with data analysis basics",
+            "Learn programming with Python",
+            "Work on practical data analytics projects"
+        ]
+    },
+    "default": {
+        "stages": [
+            "Identify your strengths and weaknesses",
+            "Choose a beginner course in your area of interest",
+            "Follow up with intermediate and advanced courses"
+        ]
+    }
+}

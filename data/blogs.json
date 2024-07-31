@@ -1,0 +1,14 @@
+[
+    {
+        "title": "How to Excel in Data Science",
+        "author": "Jane Doe",
+        "content": "Data science is a field that requires a strong foundation in programming, statistics, and domain knowledge...",
+        "link": "https://example.com/blog/data-science"
+    },
+    {
+        "title": "Top 10 Python Libraries for Machine Learning",
+        "author": "John Smith",
+        "content": "Python has a rich ecosystem of libraries for machine learning. Here are the top 10 you should know...",
+        "link": "https://example.com/blog/python-libraries"
+    }
+]

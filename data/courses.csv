@@ -1,0 +1,4 @@
+course_id,course_name,description,difficulty,category
+1,Introduction to Python,Learn the basics of Python programming,Beginner,Programming
+2,Advanced Data Structures,Deep dive into complex data structures,Advanced,Programming
+3,Data Analysis with Excel,Analyze data using Excel,Intermediate,Data Analysis

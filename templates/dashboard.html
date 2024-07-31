@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+        <h2>Welcome, {{ user.name }}</h2>
+        <p>Your learning journey starts here.</p>
+
+        <!-- Progress bar -->
+        <div class="progress mb-3">
+            <div class="progress-bar bg-success" role="progressbar" style="width: {{ progress }}%;" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100">
+                {{ progress }}%
+            </div>
+        </div>
+
+        <!-- Scores -->
+        <p>Psychometric Test Score: {{ user.psychometric_score }}</p>
+        <p>Learning Assessment Score: {{ user.learning_assessment_score }}</p>
+
+        <!-- Recommended Courses -->
+        <h4>Recommended Courses</h4>
+        <ul class="list-group">
+            {% for course in recommended_courses %}
+            <li class="list-group-item">{{ course }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <img src="{{ url_for('static', filename='img/banner.jpg') }}" class="img-fluid rounded" alt="Banner">
+    </div>
+</div>
+{% endblock %}
